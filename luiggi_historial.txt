@@ -1,0 +1,65 @@
+    1  echo $0
+    2  git clone https://github.com/luiggialvarado/examen-M3-luiggi.git
+    3  cd examen-M3-luiggi 
+    4  echo "primera linea" > info.txt
+    5  git add info.txt
+    6  git commit -m "primer commit"
+    7  git push -u origin main
+    8  rm info.txt
+    9  ls
+   10  cd ..
+   11  pwd
+   12  cd ..
+   13  pwd
+   14  git clone https://github.com/luiggialvarado/git-desde-GitBash.git
+   15  cd git-desde-GitBash
+   16  pwd
+   17  echo "primera linea" > info.txt
+   18  git add info.txt
+   19  git commit -m "primer commit"
+   20  git branch
+   21  git push -u origin main
+   22  git push -u origin main
+   23  echo"cambio del segundo commit" >> info.txt
+   24  cat info.txt
+   25  git add info.txt
+   26  git commit -m "segundo commit"
+   27  git push
+   28  echo "cambio del segundo commit" >> info.txt
+   29  cat info.txt
+   30  git add info.txt
+   31  git commit -m "segundo commit"
+   32  git push
+   33  git checkout -b rama2
+   34  git branch
+   35  echo "cambio en rama2" >> info.txt
+   36  cat info.txt
+   37  git add info.txt
+   38  git commit -m "tercer commit"
+   39  git push -u origin rama2
+   40  git branch
+   41  git checkout -b rama3
+   42  echo "linea nueva en rama3" >> info.txt
+   43  cat info.txt
+   44  git add info.txt
+   45  git commit -m "cuarto commit"
+   46  git checkout rama2
+   47  git merge rama3
+   48  git checkout main
+   49  git merge rama2
+   50  cat info.txt
+   51  echo "ultimo cambio en main" >> info.txt
+   52  git add info.txt
+   53  git commit -m "quinto commit"
+   54  git branch -d rama2 rama3
+   55  git push
+   56  git push origin --delete rama2
+   57  git branch -d rama2
+   58  git branch
+   59  git brunch
+   60  git branch
+   61  pwd
+   62  git log > luiggi_gitlog.txt
+   63  git log --oneline > luiggi_gitlog_oneline.txt
+   64  history > luiggi_historial.txt
+https://github.com/luiggialvarado/git-desde-GitBash

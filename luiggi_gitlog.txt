@@ -1,0 +1,29 @@
+commit 3262cdc91ccf41cfa44772a80a0414e19989a49f
+Author: luiggialvarado <luiggijosue.am@gmail.com>
+Date:   Thu Nov 5 17:24:41 2026 +0100
+
+    quinto commit
+
+commit cf308ccbc1776a9785e545badcdc4c0d548f44b9
+Author: luiggialvarado <luiggijosue.am@gmail.com>
+Date:   Thu Nov 5 17:22:56 2026 +0100
+
+    cuarto commit
+
+commit e0711f1f4443011e9be10f1eb0f47373d2489f0d
+Author: luiggialvarado <luiggijosue.am@gmail.com>
+Date:   Thu Nov 5 17:20:49 2026 +0100
+
+    tercer commit
+
+commit 38571620015c9c1295eb9ee0f836aa62307ffe2e
+Author: luiggialvarado <luiggijosue.am@gmail.com>
+Date:   Thu Nov 5 17:19:42 2026 +0100
+
+    segundo commit
+
+commit 15558a23b056c58ddc9d007eae513c6384278688
+Author: luiggialvarado <luiggijosue.am@gmail.com>
+Date:   Thu Nov 5 17:13:25 2026 +0100
+
+    primer commit
